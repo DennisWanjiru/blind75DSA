@@ -1,5 +1,6 @@
+/*** HASH MAP APPROACH - TC: O(n) SC: O(n)***/
+
 export function twoSum(nums: number[], target: number): number[] {
-  /*** HASH MAP APPROACH - TC: O(n) SC: O(n)***/
   const obj = {};
   let i = 0;
 

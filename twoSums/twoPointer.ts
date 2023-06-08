@@ -1,6 +1,6 @@
-export function twoSum(nums: number[], target: number): number[] {
-  /*** TWO POINTERS APPROACH - TC: O(nlog(n)) SC: O(n) ***/
+/*** TWO POINTERS APPROACH - TC: O(nlog(n)) SC: O(n) ***/
 
+export function twoSum(nums: number[], target: number): number[] {
   const nums2 = nums.map((num, idx) => [idx, num]);
   nums2.sort((a, b) => a[1] - b[1]);
 
