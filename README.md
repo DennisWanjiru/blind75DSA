@@ -6,3 +6,10 @@
 
 #### DAY 1
     1. Two Sums
+
+#### DAY 2
+    2. validParenthesis
+
+#### DAY 3
+    3. isPalindrome
+    4. isAnagram
