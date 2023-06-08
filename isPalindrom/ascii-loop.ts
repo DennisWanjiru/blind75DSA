@@ -1,4 +1,5 @@
 /*** TC: 0(n), SC: O(n) ***/
+
 function isPalindrome(s: string): boolean {
   const str = s
     .toLowerCase()
