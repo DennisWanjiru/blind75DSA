@@ -1,4 +1,5 @@
 /*** TC: 0(n), SC: O(n) ***/
+
 function isValid(s: string): boolean {
   const brackets = {
     ")": "(",
